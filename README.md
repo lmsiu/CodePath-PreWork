@@ -28,17 +28,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://drive.google.com/file/d/1S_rmYfSUBImO2Q8zdCWqa93OHimT2Wx6/view?usp=sharing
+<img src='Todo App Video Demo.gif' title='Todo App Video Demo' width='' alt='Video Walkthrough' />
 
 GIF created with [Adobe Premiere Pro 2020]
 
 ## Notes
 
-Some challenges I had while making this app was learning how to use the design portion of Android Studio. I had a hard time adjusting some of the text and hints in the text box as well as the positioning.
+Some challenges I had while making this app was learning how to use the design portion of Android Studio. I had a hard time adjusting some of the text and hints in the text box as well as the positioning. I also had a challenge with some bugs that appeared but realised I needed to sync the libraries I added. 
 
 I also had some challenges learning how the code and design portions intersected. It was challenging but fun.
 
-I am new to Git so that was also a fun challenge.
+I am new to Git so that was also a fun challenge. I learned that there is a limit to the file size that can be pushed through git (100 MB). Resolving file size issues was a problem for me. 
 
 ## License
 
