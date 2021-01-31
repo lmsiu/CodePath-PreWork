@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+https://drive.google.com/file/d/1S_rmYfSUBImO2Q8zdCWqa93OHimT2Wx6/view?usp=sharing
 
 GIF created with [Adobe Premiere Pro 2020]
 
